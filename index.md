@@ -7,7 +7,7 @@ address: "Edmon Low Library—Room 206, Stillwater, OK 74078"      # full street
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "36.122970,-97.069754"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "Feb. 1, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Feb. 1, 8, 15, 22, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:30 a.m.–4:00 p.m."    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-02-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-02-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -47,7 +47,7 @@ eventbrite: 54670284292          # optional: alphanumeric key for Eventbrite reg
 </iframe>
 {% endif %}
 
-
+<h4>This workshop is spread over the four Fridays in February. Before registering, we ask participants to commit to attending three out of the four sessions.</h4>
 
 <h2 id="general">General Information</h2>
 
